@@ -1,23 +1,44 @@
-# Sales-Analytics
+# Sales Analytics Project (FMCG)
 
-**Project Summary:**
+## Project Overview
+Welcome to the Sales Analytics project in the Fast-Moving Consumer Goods (FMCG) industry! We've successfully transformed a massive dataset of 1 million raw sales records into actionable insights. Join me on this data analytics journey as we explore the impactful highlights of this challenging project.
 
-I successfully completed the Sales Analytics project, where I skillfully crafted impactful business reports using Excel. My approach involved seamlessly blending ETL processes, Data modeling, and Power Query techniques. The resulting reports were comprehensive and addressed critical business questions, highlighting my ability to transform raw data into valuable business insights.
+### Operations Performed
+- **ETL Mastery:** Efficient data cleaning and preparation using Power Query.
+- **Excel Expertise:** Utilized advanced functions like VLOOKUP, XLOOKUP, Power Pivot, and DAX for multidimensional analysis.
+- **Data Visualization:** Enhanced visual representation with sophisticated conditional formatting techniques.
+- **User-Friendly Interface:** Crafted a dynamic experience with slicers, measures, and filters for seamless analysis.
 
-**Tools and Techniques:**
+### Key Takeaways
+Hone your skills through hands-on experience:
+- **Comprehensive Data Modeling:** Establish relationships for holistic views.
+- **Precision Data Cleaning:** Utilized Power Query for accuracy and consistency.
+- **ETL Methodologies:** Transformed raw data into a unified dataset for analysis.
 
-I utilized a variety of tools including Power Query and Power Pivot to handle and clean the data efficiently. Report generation was facilitated through the use of Pivot Tables, and I implemented DAX functions to create precise measures for analysis. Additionally, I ensured that the reports were visually clean and easily understandable by implementing Conditional Formatting techniques.
+### Domain Knowledge
+Delve into the dynamics of sales, equipping yourself to provide data-driven insights for informed decision-making.
 
-**Key Achievements:**
+## Sales Analytics Report Highlights
+- Customer Performance Report
+- Market Performance vs. Sales Target
+- Top 10 Products by Revenue
+- Division-level Report
+- Top 5 and Bottom 5 Products
+- New Products 2021
+- Top 5 Countries 2021
 
-1. Developed comprehensive business reports that addressed critical business questions.
-2. Demonstrated proficiency in blending ETL processes, Data modeling, and Power Query techniques for effective data analysis.
-3. Utilized Pivot Tables for report generation, enhancing data visualization.
-4. Implemented DAX functions to create accurate measures for analysis.
-5. Ensured visual clarity and accessibility of reports through the strategic use of Conditional Formatting.
+### Insights from Customer Net Sales Performance Slide
+Experience remarkable growth at AtliQ, with a 304.5% increase from 2019 to 2021. The success of exclusive brands "AtliQ Exclusive" and "AtliQ Hardwares" showcases the company's strength.
 
-**Key Learnings:**
+## Market Performance vs Target Insights
+2021 market performance reveals mixed outcomes, with some countries lagging behind (e.g., India) and others falling short (e.g., USA). An overall 9.17% shortfall against the grand total target calls for strategic evaluation aligning marketing and sales efforts with market-specific dynamics.
 
-Through this project, I gained practical knowledge of essential financial terms such as Net Sales, Margin, COGS (Cost of Goods Sold), Gross Margin, and Freight Cost. This hands-on experience significantly enriched my understanding of the financial analysis and reporting domain.
+## How to Navigate the GitHub Repository:
+1. **[Click here](https://github.com/Girish-3306/Sales-Analytics/tree/main):** Access the GitHub repository.
+2. **Explore Folders:** Navigate through folders for detailed Sales reports.
+3. **Download and Analyze:** Download the reports for a comprehensive understanding.
 
-These accomplishments underscore my ability to handle complex data, derive meaningful insights, and present them in a visually appealing manner. I am eager to bring these skills and experiences to contribute effectively to your team's success.
+## Acknowledgments
+Special thanks to Dhaval Patel, Hemanand Vadivel, and the codebasics team for their continuous guidance and providing real-world datasets. Their mentorship has been invaluable on this transformative journey.
+
+**Let's dive into the world of FMCG sales analytics! 🚀📊 #SalesAnalytics #FMCG #DataDrivenDecisions**
