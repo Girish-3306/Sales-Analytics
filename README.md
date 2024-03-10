@@ -34,9 +34,11 @@ Experience remarkable growth at AtliQ, with a 304.5% increase from 2019 to 2021.
 2021 market performance reveals mixed outcomes, with some countries lagging behind (e.g., India) and others falling short (e.g., USA). An overall 9.17% shortfall against the grand total target calls for strategic evaluation aligning marketing and sales efforts with market-specific dynamics.
 
 ## How to Navigate the GitHub Repository:
-1. **[Click here](https://github.com/Girish-3306/Sales-Analytics/tree/main):** Access the GitHub repository.
-2. **Explore Folders:** Navigate through folders for detailed Sales reports.
-3. **Download and Analyze:** Download the reports for a comprehensive understanding.
+1. [**Customer Performance Report**](https://github.com/Girish-3306/Sales-Analytics/blob/main/Customer%20Performance%20Report.pdf)
+   - Discover insights into customer trends and overall performance.
+
+2. [**Market Performance vs. Sales Target Report**](https://github.com/Girish-3306/Sales-Analytics/blob/main/Market%20Performance%20vs%20Target%20Report.pdf)
+   - Understand how our market performance aligns with set sales targets, revealing strategic opportunities.
 
 ## Acknowledgments
 Special thanks to Dhaval Patel, Hemanand Vadivel, and the codebasics team for their continuous guidance and providing real-world datasets. Their mentorship has been invaluable on this transformative journey.
